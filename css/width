@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>about</title>
+</head>
+<body bgcolor="green">
+	<a href="home.html">Home</a>
+	<a href="form.html">form</a>
+	<a href="table.html">table</a>
+<font color="white"> <marquee> <h3>welcome to our facility. Better hospital simple honest transparent</font></marquee></h3>
+    <table>
+        <tr>
+            <td><img src="2.jpg" alt="Parksenz"></td> <td> <p>About us</p>
+                <p><font color="white">welcom to our facility,. We are purposed to give you the best.</p></font>
+
+ <p><font color="white">WELCOM ALL </p></font>
+
+<p><font color="white">Better was formed in 1997 as a fully owned subsidiary of hospital Kenya. In May 2000, Vodafone Group PLC of the United Kingdom acquired a 40% stake and management responsibility for the company.[9] In 2008, the government offered 25% of its shares to the public through the Nairobi Securities Exchange.</p></font></td>
+        </tr>
+        <tr>
+            <td><img src="1.jpg" height="50%" width="100%"></td><td><p><font color="white">M-daktari has been particularly successful in Kenya, compared to mobile money platforms in other countries. Contributing factors here include the exceptionally high cost of sending money by other methods; the dominant market position of Safaricom;the regulator's initial decision to allow the scheme to proceed on an experimental basis, without formal approval; a clear and effective marketing campaign (“Send money home”); an efficient system to move cash around behind the scenes; </p></font>
+        
+         </td>
+      
+               
+    </table>
+</body>
+</html> 
+        
+       
+        
+        
+      
+
+        
+       
+           
